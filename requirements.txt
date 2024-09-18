@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langchain-community
+pypdf
+langchain-text-splitters
+sentence_transformers
+langchain_huggingface
+chromadb
+langchain_chroma
+langchain_core
+streamlit
+langchain_groq
+pymupdf
+fpdf
+datetime
