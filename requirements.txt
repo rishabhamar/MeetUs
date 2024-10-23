@@ -13,3 +13,17 @@ langchain_groq
 pymupdf
 fpdf
 datetime
+pydub
+SpeechRecognition
+ffmpeg-python
+moviepy
+openai-whisper
+tempfile
+transformers
+speech_recognition
+google-cloud-speech
+speechrecognition
+python3-pyaudio
+pyaudio
+SpeechRecognition[whisper-local]
+soundfile
