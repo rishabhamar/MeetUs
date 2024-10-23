@@ -118,7 +118,7 @@ User Interface: Provides a user-friendly way to interact with the application an
 
 # Explaination Video
 
-https://drive.google.com/file/d/1OyGjb2l2yzZ_DgSQe36a8kC68r0KkJim/view?usp=sharing
+[![Watch the video]](https://drive.google.com/file/d/1OyGjb2l2yzZ_DgSQe36a8kC68r0KkJim/view?usp=sharing)
 
 (Sorry for the bad quality I had to compress the video under 10mb to upload it on github)
 
