@@ -6,6 +6,10 @@
 
 * Then go the file location
 
+### Create Virtual Environment
+
+**python -m venv myenv**
+
 ### Enabling virtual Environment
 
 **myenv\Scripts\activate**
@@ -113,3 +117,6 @@ Language Model: Generates human-like text responses based on the provided prompt
 User Interface: Provides a user-friendly way to interact with the application and view results.
 
 # Explaination Video
+
+https://github.com/user-attachments/assets/6ce544e3-b19a-4db3-a83d-ddf8e9853265
+
