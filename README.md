@@ -111,3 +111,5 @@ Prompt Engineering: Carefully crafted prompts guide the language model to genera
 Retrieval: Efficiently retrieves relevant information from the vectorstore based on user queries.
 Language Model: Generates human-like text responses based on the provided prompts and information.
 User Interface: Provides a user-friendly way to interact with the application and view results.
+
+# Explaination Video
