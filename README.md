@@ -119,4 +119,6 @@ User Interface: Provides a user-friendly way to interact with the application an
 # Explaination Video
 
 https://github.com/user-attachments/assets/6ce544e3-b19a-4db3-a83d-ddf8e9853265
+https://drive.google.com/file/d/1OyGjb2l2yzZ_DgSQe36a8kC68r0KkJim/view?usp=sharing
+(Sorry for the bad quality I had to compress the video under 10mb to upload it on github)
 
