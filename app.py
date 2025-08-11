@@ -28,9 +28,13 @@ from pydub import AudioSegment
 import io
 import whisper
 import speech_recognition as sr
+import sys
+import pysqlite3
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 from dotenv import load_dotenv
 load_dotenv()
+
 
 # Function to handle meeting agenda creation
 def page_agenda():
@@ -564,3 +568,4 @@ elif page == "Meeting Tracking":
     page_track()
 elif page == "Meeting Summary":
     page_summary()
+
