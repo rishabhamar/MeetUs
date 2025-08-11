@@ -21,8 +21,6 @@ openai-whisper
 transformers
 google-cloud-speech
 speechrecognition
-python3-pyaudio
 pyaudio
 SpeechRecognition[whisper-local]
 soundfile
-
