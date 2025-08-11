@@ -1,5 +1,7 @@
 services:
   - type: web
+    name: meetus        # REQUIRED: Provide a non-empty name
+    runtime: python             # Choose a valid runtime like `python`
     buildCommand: |
       apt-get update && apt-get install -y portaudio19-dev python3-pyaudio
       pip install -r requirements.txt
