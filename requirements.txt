@@ -22,3 +22,5 @@ transformers
 google-cloud-speech
 SpeechRecognition[whisper-local]
 soundfile
+pysqlite3-binary
+
