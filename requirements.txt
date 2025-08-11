@@ -1,5 +1,6 @@
 langchain
 python-dotenv
+portaudio19-dev
 langchain-community
 pypdf
 langchain-text-splitters
@@ -24,3 +25,4 @@ speechrecognition
 pyaudio
 SpeechRecognition[whisper-local]
 soundfile
+
