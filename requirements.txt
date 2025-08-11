@@ -18,7 +18,6 @@ SpeechRecognition
 ffmpeg-python
 moviepy
 openai-whisper
-tempfile
 transformers
 speech_recognition
 google-cloud-speech
@@ -27,3 +26,4 @@ python3-pyaudio
 pyaudio
 SpeechRecognition[whisper-local]
 soundfile
+
