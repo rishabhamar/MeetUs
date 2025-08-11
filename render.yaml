@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: streamlit-app           # ← Required and must not be empty
+    name: meetus          # ← Required and must not be empty
     plan: free
     runtime: python              # ← Must be a supported native runtime
     envVars:
