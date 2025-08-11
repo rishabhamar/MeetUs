@@ -20,9 +20,5 @@ moviepy
 openai-whisper
 transformers
 google-cloud-speech
-speechrecognition
-pyaudio
 SpeechRecognition[whisper-local]
 soundfile
-
-
