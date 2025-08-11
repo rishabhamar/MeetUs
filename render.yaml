@@ -1,7 +1,10 @@
 services:
   - type: web
-    name: meetus        # REQUIRED: Provide a non-empty name
-    runtime: python             # Choose a valid runtime like `python`
+    name: streamlit-app           # ← Required and must not be empty
+    runtime: python              # ← Must be a supported native runtime
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.3            # ← Sets Python version precisely
     buildCommand: |
       apt-get update && apt-get install -y portaudio19-dev python3-pyaudio
       pip install -r requirements.txt
