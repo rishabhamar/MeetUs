@@ -2,11 +2,10 @@ services:
   - type: web
     name: meetus          # ← Required and must not be empty
     plan: free
-    runtime: python              # ← Must be a supported native runtime
+    runtime: docker
+    dockerfilePath: ./Dockerfile
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.3            # ← Sets Python version precisely
-    runtime: docker
-    dockerfilePath: ./Dockerfile
     startCommand: # optional; Dockerfile already defines ENTRYPOINT
       null
