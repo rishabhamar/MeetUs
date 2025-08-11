@@ -19,7 +19,6 @@ ffmpeg-python
 moviepy
 openai-whisper
 transformers
-speech_recognition
 google-cloud-speech
 speechrecognition
 python3-pyaudio
