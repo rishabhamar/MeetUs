@@ -1,0 +1,6 @@
+services:
+  - type: web
+    buildCommand: |
+      apt-get update && apt-get install -y portaudio19-dev python3-pyaudio
+      pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
